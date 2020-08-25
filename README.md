@@ -12,6 +12,5 @@ trained keras model for mask classification
 
 ## Usage
 
-1.Put training images in datase folder with mask and non-mask respectively
-2.Run train_mask_detector.py file to refine model or you can train the model 
-  from scratch just remove "imagenet" in training images
+1.Put training images in datase folder with mask and non-mask respectively.                                                                                      2.Run train_mask_detector.py file to refine model or you can train the model 
+  from scratch just remove "imagenet" in training images.
